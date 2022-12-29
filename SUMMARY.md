@@ -1,4 +1,4 @@
 # Table of contents
 
 * [Икигай](README.md)
-* [Page 1](page-1.md)
+* [Прокрастинация при работе над собой](prokrastinaciya-pri-rabote-nad-soboi.md)
