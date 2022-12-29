@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Икигай](README.md)
-* [Прокрастинация при работе над собой](prokrastinaciya-pri-rabote-nad-soboi.md)
+* [Фрисерчинг (Freesearching)](README.md)
+* [Прокрастинация при работе над собой](procrastination.md)
