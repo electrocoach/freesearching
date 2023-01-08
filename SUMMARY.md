@@ -3,6 +3,8 @@
 * [Фрисерчинг (Freesearching)](README.md)
 * [Прокрастинация при работе над собой](procrastination.md)
 
-## Group 1
+## Коучинговые программы <a href="#coaching-programs" id="coaching-programs"></a>
 
-* [Коучинговые программы](group-1/kouchingovye-programmy.md)
+* [Я и ситуация](coaching-programs/ya-i-situaciya.md)
+* [Принятие решений](coaching-programs/prinyatie-reshenii/README.md)
+  * [Анализ проблемы по S. C. O. R. E.](coaching-programs/prinyatie-reshenii/analiz-problemy-po-s.-c.-o.-r.-e..md)
